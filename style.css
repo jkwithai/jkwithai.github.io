@@ -301,27 +301,26 @@ h1 {
 }
 
 .card-title {
-    padding: 18px 24px;
-    font-size: 1.05rem;
+    padding: 24px 28px;
+    font-size: 1.1rem;
     font-weight: 700;
     background: rgba(255, 255, 255, 0.02);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
     color: #f1f5f9;
     letter-spacing: -0.5px;
+    position: relative;
     display: flex;
     align-items: center;
-    position: relative;
 }
 
-.card-title::before {
+.card-title::after {
     content: '';
     position: absolute;
-    left: 0;
-    top: 25%;
-    height: 50%;
-    width: 4px;
+    left: 28px;
+    bottom: 0;
+    height: 4px;
+    width: 80px;
     background: var(--accent-gradient);
-    border-radius: 0 4px 4px 0;
+    border-radius: 2px;
 }
 
 .news-wrapper {
