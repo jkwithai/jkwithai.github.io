@@ -1,10 +1,10 @@
 :root {
-    --bg-color: #0a0a0c;
-    --text-color: #ffffff;
+    --bg-color: #050507;
+    --text-color: #f1f5f9;
     --accent-color: #4f46e5;
     --accent-gradient: linear-gradient(135deg, #6366f1 0%, #a855f7 100%);
     --card-bg: rgba(255, 255, 255, 0.03);
-    --border-color: rgba(255, 255, 255, 0.1);
+    --border-color: rgba(255, 255, 255, 0.08);
     --font-family: 'Outfit', sans-serif;
 }
 
@@ -33,7 +33,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.85); /* 더욱 차분하게 조정 */
+    background: rgba(0, 0, 0, 0.88);
     z-index: -1;
 }
 
@@ -46,16 +46,16 @@ body::before {
     z-index: -2;
     background: url('./bg.png') no-repeat center center;
     background-size: cover;
-    opacity: 0.4;
+    opacity: 0.3;
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1100px;
     width: 90%;
     padding: 60px 0;
     display: flex;
     flex-direction: column;
-    gap: 80px;
+    gap: 60px;
 }
 
 /* Quote Section */
@@ -70,21 +70,22 @@ body::before {
 }
 
 #quote-en {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     font-weight: 600;
     font-style: italic;
     color: #e2e8f0;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
 #quote-ko {
-    font-size: 1rem;
+    font-size: 0.95rem;
     color: #94a3b8;
 }
 
 /* Hero Section */
 .hero-section {
     text-align: center;
+    padding: 20px 0;
     animation: fadeInUp 1s ease-out;
 }
 
@@ -92,7 +93,7 @@ h1 {
     font-size: 3.5rem;
     font-weight: 800;
     margin-bottom: 24px;
-    letter-spacing: -1px;
+    letter-spacing: -1.5px;
     line-height: 1.2;
 }
 
@@ -103,76 +104,142 @@ h1 {
 }
 
 .hero-text {
-    font-size: 1.2rem;
+    font-size: 1.15rem;
     color: #94a3b8;
-    max-width: 600px;
-    margin: 0 auto 40px;
+    max-width: 650px;
+    margin: 0 auto 35px;
 }
 
 .cta-button {
     display: inline-block;
-    padding: 14px 32px;
+    padding: 14px 35px;
     background: var(--accent-gradient);
     color: white;
     text-decoration: none;
-    border-radius: 12px;
+    border-radius: 14px;
     font-weight: 600;
-    transition: all 0.3s ease;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     box-shadow: 0 10px 20px rgba(99, 102, 241, 0.2);
 }
 
 .cta-button:hover {
-    transform: translateY(-2px);
+    transform: translateY(-3px);
     box-shadow: 0 15px 30px rgba(99, 102, 241, 0.4);
 }
 
-/* Automation Section (Iframe Container) */
+/* Automation Section */
 .automation-section {
     width: 100%;
     animation: fadeInUp 1.2s ease-out;
 }
 
 .section-title {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     font-weight: 700;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
 }
 
 .section-title::before {
     content: '';
     display: block;
-    width: 4px;
-    height: 24px;
+    width: 5px;
+    height: 28px;
     background: var(--accent-gradient);
-    border-radius: 2px;
+    border-radius: 3px;
 }
 
-.iframe-wrapper {
-    position: relative;
-    width: 100%;
-    height: 450px;
+.automation-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 24px;
+}
+
+.automation-card {
     background: var(--card-bg);
     border: 1px solid var(--border-color);
-    border-radius: 20px;
+    border-radius: 24px;
     overflow: hidden;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    backdrop-filter: blur(5px);
+    flex-direction: column;
+    backdrop-filter: blur(10px);
+    transition: border-color 0.3s ease;
 }
 
-.iframe-placeholder {
-    text-align: center;
+.automation-card:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+}
+
+.card-title {
+    padding: 20px 24px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    background: rgba(255, 255, 255, 0.02);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.news-wrapper {
+    position: relative;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.news-list {
+    flex: 1;
+    padding: 16px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.news-item {
+    padding: 14px 18px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 14px;
+    text-decoration: none;
+    color: #e2e8f0;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.news-item:hover {
+    background: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.1);
+    transform: translateX(4px);
+}
+
+.news-title {
+    font-size: 0.95rem;
+    font-weight: 500;
+    display: block;
+    margin-bottom: 4px;
+    line-height: 1.4;
+}
+
+.news-meta {
+    font-size: 0.8rem;
     color: #64748b;
 }
 
-.iframe-placeholder i {
-    font-size: 2rem;
-    margin-bottom: 10px;
-    display: block;
+.news-footer {
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.4);
+    font-size: 0.75rem;
+    color: #475569;
+    text-align: right;
+}
+
+.loading-placeholder, .error-msg {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #64748b;
+    font-size: 0.9rem;
 }
 
 /* Animations */
@@ -186,51 +253,8 @@ h1 {
     to { opacity: 1; transform: translateY(0); }
 }
 
-.news-list {
-    width: 100%;
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    overflow-y: auto;
-    height: 100%;
-}
-
-.news-item {
-    display: block;
-    padding: 12px 16px;
-    background: rgba(255, 255, 255, 0.05);
-    border-radius: 12px;
-    text-decoration: none;
-    color: #e2e8f0;
-    transition: all 0.2s ease;
-    border: 1px solid transparent;
-}
-
-.news-item:hover {
-    background: rgba(255, 255, 255, 0.08);
-    border-color: var(--border-color);
-    transform: translateX(5px);
-}
-
-.news-title {
-    font-size: 1rem;
-    font-weight: 500;
-    display: block;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-}
-
-.news-footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 10px 20px;
-    background: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(5px);
-    font-size: 0.8rem;
-    color: #64748b;
-    border-top: 1px solid var(--border-color);
-    text-align: right;
+@media (max-width: 768px) {
+    h1 { font-size: 2.2rem; }
+    .automation-grid { grid-template-columns: 1fr; }
+    .container { padding: 40px 0; }
 }

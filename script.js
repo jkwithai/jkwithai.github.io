@@ -31,12 +31,11 @@ function displayRandomQuote() {
     translationElement.textContent = selectedQuote.ko;
 }
 
-async function loadNews() {
-    const newsWrapper = document.querySelector('.iframe-wrapper');
+async function loadNaverNews() {
+    const wrapper = document.getElementById('naver-news');
     try {
         const response = await fetch('./data/news.json');
         if (!response.ok) throw new Error('News data not found');
-        
         const data = await response.json();
         
         let html = `<div class="news-list">`;
@@ -44,24 +43,39 @@ async function loadNews() {
             html += `
                 <a href="${item.link}" class="news-item" target="_blank">
                     <span class="news-title">${item.title}</span>
-                </a>
-            `;
+                </a>`;
         });
         html += `</div><div class="news-footer">Last updated: ${data.last_updated}</div>`;
-        
-        newsWrapper.innerHTML = html;
+        wrapper.innerHTML = html;
     } catch (error) {
-        console.error('Error loading news:', error);
-        newsWrapper.innerHTML = `
-            <div class="iframe-placeholder">
-                <p>뉴스 데이터를 불러오는 중입니다...</p>
-                <small>자동 수집 작업이 완료되면 여기에 뉴스가 표시됩니다.</small>
-            </div>
-        `;
+        wrapper.innerHTML = `<div class="error-msg">뉴스를 불러올 수 없습니다.</div>`;
+    }
+}
+
+async function loadBizinfo() {
+    const wrapper = document.getElementById('bizinfo-news');
+    try {
+        const response = await fetch('./data/bizinfo.json');
+        if (!response.ok) throw new Error('Bizinfo data not found');
+        const data = await response.json();
+        
+        let html = `<div class="news-list">`;
+        data.items.forEach(item => {
+            html += `
+                <a href="${item.link}" class="news-item" target="_blank">
+                    <span class="news-title">${item.title}</span>
+                    <span class="news-meta">신청기간: ${item.period}</span>
+                </a>`;
+        });
+        html += `</div><div class="news-footer">Last updated: ${data.last_updated}</div>`;
+        wrapper.innerHTML = html;
+    } catch (error) {
+        wrapper.innerHTML = `<div class="error-msg">지원사업 정보를 불러올 수 없습니다.</div>`;
     }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
     displayRandomQuote();
-    loadNews();
+    loadNaverNews();
+    loadBizinfo();
 });
