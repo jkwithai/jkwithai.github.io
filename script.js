@@ -74,8 +74,46 @@ async function loadBizinfo() {
     }
 }
 
+async function loadWeather() {
+    const wrapper = document.getElementById('weather-info');
+    try {
+        const response = await fetch('./data/weather.json');
+        if (!response.ok) throw new Error('Weather data not found');
+        const data = await response.json();
+        
+        // 날씨 코드별 이모지
+        const emojis = {
+            0: "☀️", 1: "🌤️", 2: "⛅", 3: "☁️",
+            45: "🌫️", 48: "🌫️", 51: "🌦️", 53: "🌦️", 55: "🌦️",
+            61: "🌧️", 63: "🌧️", 65: "🌊", 71: "❄️", 73: "❄️", 75: "☃️",
+            95: "⚡"
+        };
+        const emoji = emojis[data.code] || "🌡️";
+        
+        wrapper.innerHTML = `
+            <div class="weather-content">
+                <div class="weather-main">
+                    <span class="weather-emoji">${emoji}</span>
+                    <div class="weather-temp">
+                        <span class="temp-val">${data.temp}</span><span class="temp-unit">°C</span>
+                    </div>
+                </div>
+                <div class="weather-desc">${data.description}</div>
+                <div class="outfit-box">
+                    <div class="outfit-label">오늘의 추천 코디</div>
+                    <div class="outfit-text">${data.outfit}</div>
+                </div>
+            </div>
+            <div class="news-footer">Last updated: ${data.last_updated}</div>
+        `;
+    } catch (error) {
+        wrapper.innerHTML = `<div class="error-msg">날씨 정보를 불러올 수 없습니다.</div>`;
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     displayRandomQuote();
     loadNaverNews();
     loadBizinfo();
+    loadWeather();
 });
