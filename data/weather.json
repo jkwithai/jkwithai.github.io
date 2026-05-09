@@ -1,7 +1,9 @@
 {
-    "last_updated": "2026-05-09 20:56:27",
-    "temp": 14.1,
+    "last_updated": "2026-05-09 21:04:45",
+    "temp": 13.8,
     "description": "맑음",
-    "outfit": "자켓, 가디건, 야상, 스타킹, 청바지, 면바지",
+    "outfit": "자켓, 가디건, 야상, 청바지, 면바지",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600&auto=format&fit=crop",
+    "link": "https://www.musinsa.com/search/musinsa/news?q=가디건+코디",
     "code": 0
 }

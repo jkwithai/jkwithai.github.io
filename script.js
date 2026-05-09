@@ -99,9 +99,14 @@ async function loadWeather() {
                     </div>
                 </div>
                 <div class="weather-desc">${data.description}</div>
-                <div class="outfit-box">
-                    <div class="outfit-label">오늘의 추천 코디</div>
-                    <div class="outfit-text">${data.outfit}</div>
+                
+                <div class="outfit-container">
+                    <img src="${data.image}" alt="Outfit Recommendation" class="outfit-img">
+                    <div class="outfit-overlay">
+                        <div class="outfit-label">오늘의 추천 코디</div>
+                        <div class="outfit-text">${data.outfit}</div>
+                        <a href="${data.link}" target="_blank" class="outfit-link">코디 더보기 (무신사)</a>
+                    </div>
                 </div>
             </div>
             <div class="news-footer">Last updated: ${data.last_updated}</div>

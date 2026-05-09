@@ -111,22 +111,55 @@ def collect_bizinfo_news():
         print(f"Error during bizinfo collection: {e}")
 
 def get_outfit_recommendation(temp):
+    # 각 기온별 코디 정보, 이미지, 그리고 무신사 코디맵 검색 링크
     if temp < 5:
-        return "패딩, 두꺼운 코트, 목도리, 기모제품"
+        return {
+            "text": "패딩, 두꺼운 코트, 목도리, 기모제품",
+            "image": "https://images.unsplash.com/photo-1544022613-e87ca75a784a?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=겨울+코디"
+        }
     elif 5 <= temp < 9:
-        return "코트, 가죽 자켓, 히트텍, 니트, 레깅스"
+        return {
+            "text": "코트, 가죽 자켓, 히트텍, 니트, 레깅스",
+            "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=코트+코디"
+        }
     elif 9 <= temp < 12:
-        return "자켓, 트렌치코트, 야상, 니트, 청바지"
+        return {
+            "text": "자켓, 트렌치코트, 야상, 니트, 청바지",
+            "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=트렌치코트"
+        }
     elif 12 <= temp < 17:
-        return "자켓, 가디건, 야상, 스타킹, 청바지, 면바지"
+        return {
+            "text": "자켓, 가디건, 야상, 청바지, 면바지",
+            "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=가디건+코디"
+        }
     elif 17 <= temp < 20:
-        return "얇은 니트, 맨투맨, 가디건, 청바지"
+        return {
+            "text": "얇은 니트, 맨투맨, 가디건, 청바지",
+            "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=맨투맨+코디"
+        }
     elif 20 <= temp < 23:
-        return "긴팔 티, 가디건, 후드티, 면바지, 슬랙스"
+        return {
+            "text": "긴팔 티, 가디건, 후드티, 면바지, 슬랙스",
+            "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=후드티+코디"
+        }
     elif 23 <= temp < 28:
-        return "반팔, 얇은 셔츠, 반바지, 면바지"
+        return {
+            "text": "반팔, 얇은 셔츠, 반바지, 면바지",
+            "image": "https://images.unsplash.com/photo-1523381235211-252f5d00a31d?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=여름+코디"
+        }
     else:
-        return "민소매, 반팔, 반바지, 원피스"
+        return {
+            "text": "민소매, 반팔, 반바지, 원피스",
+            "image": "https://images.unsplash.com/photo-1523350165411-962fbf292431?q=80&w=600&auto=format&fit=crop",
+            "link": "https://www.musinsa.com/search/musinsa/news?q=바캉스+룩"
+        }
 
 def collect_weather_and_outfit():
     # 서울 좌표 (Lat: 37.5665, Lon: 126.9780)
@@ -141,7 +174,7 @@ def collect_weather_and_outfit():
         temp = current.get("temperature")
         weather_code = current.get("weathercode")
         
-        # 날씨 코드에 따른 텍스트 (WMO Code 기준)
+        # WMO Code descriptions
         weather_desc = {
             0: "맑음", 1: "대체로 맑음", 2: "구름 조금", 3: "흐림",
             45: "안개", 48: "안개", 51: "가랑비", 53: "가랑비", 55: "가랑비",
@@ -150,13 +183,15 @@ def collect_weather_and_outfit():
         }
         
         desc = weather_desc.get(weather_code, "정보 없음")
-        outfit = get_outfit_recommendation(temp)
+        outfit_data = get_outfit_recommendation(temp)
         
         data = {
             "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
             "temp": temp,
             "description": desc,
-            "outfit": outfit,
+            "outfit": outfit_data["text"],
+            "image": outfit_data["image"],
+            "link": outfit_data["link"],
             "code": weather_code
         }
         
