@@ -164,7 +164,7 @@ h1 {
 
 /* Weather Specific Styles */
 .weather-wrapper {
-    height: 400px;
+    flex: 1;
     display: flex;
     flex-direction: column;
 }
@@ -292,6 +292,7 @@ h1 {
     backdrop-filter: blur(20px);
     transition: all 0.5s cubic-bezier(0.2, 0.8, 0.2, 1);
     box-shadow: var(--card-shadow);
+    min-height: 580px;
 }
 
 .automation-card:hover {
@@ -325,9 +326,10 @@ h1 {
 
 .news-wrapper {
     position: relative;
-    height: 400px;
+    flex: 1;
     display: flex;
     flex-direction: column;
+    overflow: hidden;
 }
 
 .news-list {
