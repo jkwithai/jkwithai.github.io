@@ -349,6 +349,46 @@ h1 {
     border: 1px solid rgba(255, 255, 255, 0.02);
 }
 
+.finance-dashboard {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.03);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.finance-item {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.finance-name {
+    font-size: 0.75rem;
+    color: #94a3b8;
+    font-weight: 600;
+}
+
+.finance-value {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #f8fafc;
+}
+
+.finance-change {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.finance-change.up {
+    color: #f87171; /* Red for up in KR market context */
+}
+
+.finance-change.down {
+    color: #60a5fa; /* Blue for down */
+}
+
 .news-item:hover {
     background: rgba(255, 255, 255, 0.07);
     border-color: rgba(255, 255, 255, 0.1);

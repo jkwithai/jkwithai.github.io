@@ -116,9 +116,33 @@ async function loadWeather() {
     }
 }
 
+async function loadFinanceData() {
+    const container = document.getElementById('finance-data');
+    if (!container) return;
+
+    try {
+        const response = await fetch('./data/finance.json');
+        if (!response.ok) throw new Error('Finance data not found');
+        const data = await response.json();
+        
+        container.innerHTML = data.items.map(item => `
+            <div class="finance-item">
+                <span class="finance-name">${item.name}</span>
+                <div class="finance-value">${item.price.toLocaleString()}</div>
+                <div class="finance-change ${item.change >= 0 ? 'up' : 'down'}">
+                    ${item.change >= 0 ? '▲' : '▼'} ${Math.abs(item.change).toLocaleString()} (${item.percent}%)
+                </div>
+            </div>
+        `).join('');
+    } catch (error) {
+        container.style.display = 'none';
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     displayRandomQuote();
     loadNaverNews();
     loadBizinfo();
     loadWeather();
+    loadFinanceData();
 });

@@ -203,7 +203,53 @@ def collect_weather_and_outfit():
     except Exception as e:
         print(f"Error during weather collection: {e}")
 
+import yfinance as yf
+
+def collect_finance_data():
+    # 수집할 종목: 코스피(^KS11), S&P500(^GSPC), 필라델피아 반도체(^SOX), 금(GC=F)
+    symbols = {
+        "KOSPI": "^KS11",
+        "S&P 500": "^GSPC",
+        "Semiconductor": "^SOX",
+        "Gold": "GC=F"
+    }
+    
+    finance_results = []
+    
+    try:
+        for name, symbol in symbols.items():
+            ticker = yf.Ticker(symbol)
+            # 최신 데이터 가져오기 (최근 2일간 데이터로 전일비 계산)
+            hist = ticker.history(period="2d")
+            
+            if len(hist) >= 1:
+                current_price = hist['Close'].iloc[-1]
+                prev_price = hist['Close'].iloc[-2] if len(hist) > 1 else current_price
+                change = current_price - prev_price
+                change_percent = (change / prev_price) * 100 if prev_price != 0 else 0
+                
+                finance_results.append({
+                    "name": name,
+                    "price": round(current_price, 2),
+                    "change": round(change, 2),
+                    "percent": round(change_percent, 2)
+                })
+        
+        data = {
+            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "items": finance_results
+        }
+        
+        with open('data/finance.json', 'w', encoding='utf-8') as f:
+            json.dump(data, f, ensure_ascii=False, indent=4)
+            
+        print(f"Successfully collected {len(finance_results)} finance items.")
+        
+    except Exception as e:
+        print(f"Error during finance collection: {e}")
+
 if __name__ == "__main__":
     collect_naver_news()
     collect_bizinfo_news()
     collect_weather_and_outfit()
+    collect_finance_data()
