@@ -31,4 +31,37 @@ function displayRandomQuote() {
     translationElement.textContent = selectedQuote.ko;
 }
 
-document.addEventListener('DOMContentLoaded', displayRandomQuote);
+async function loadNews() {
+    const newsWrapper = document.querySelector('.iframe-wrapper');
+    try {
+        const response = await fetch('./data/news.json');
+        if (!response.ok) throw new Error('News data not found');
+        
+        const data = await response.json();
+        
+        let html = `<div class="news-list">`;
+        data.news.forEach(item => {
+            html += `
+                <a href="${item.link}" class="news-item" target="_blank">
+                    <span class="news-title">${item.title}</span>
+                </a>
+            `;
+        });
+        html += `</div><div class="news-footer">Last updated: ${data.last_updated}</div>`;
+        
+        newsWrapper.innerHTML = html;
+    } catch (error) {
+        console.error('Error loading news:', error);
+        newsWrapper.innerHTML = `
+            <div class="iframe-placeholder">
+                <p>뉴스 데이터를 불러오는 중입니다...</p>
+                <small>자동 수집 작업이 완료되면 여기에 뉴스가 표시됩니다.</small>
+            </div>
+        `;
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    displayRandomQuote();
+    loadNews();
+});
