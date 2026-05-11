@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-05-11 09:57:00",
+    "last_updated": "2026-05-11 15:30:48",
     "items": [
         {
             "title": "[경기] 2026년 일ㆍ생활 균형 제도 도입 지원 컨설팅 참여기업 모집 공고",
@@ -42,14 +42,14 @@
             "period": "2026-05-13 ~ 2026-05-26"
         },
         {
-            "title": "[서울] 2026년 7기 가죽ㆍ패션 레벨업 아카데미 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000121729",
-            "period": "2026-04-22 ~ 2026-05-11"
-        },
-        {
             "title": "[서울] 2026년 소상공인 온라인 판로개척 지원 참여 소상공인 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000121710",
             "period": "2026-05-06 ~ 2026-05-25"
+        },
+        {
+            "title": "[서울] 2026년 청년 골목창업 경진대회 참여자 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000121708",
+            "period": "2026-05-06 ~ 2026-05-26"
         }
     ]
 }
