@@ -1,6 +1,36 @@
 {
-    "last_updated": "2026-05-22 04:21:10",
+    "last_updated": "2026-05-22 09:43:00",
     "items": [
+        {
+            "title": "[경기] 부천시 2026년 홍콩추계조명박람회(HKILF 2026) 참가지원 모집 추가 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122341",
+            "period": "2026-05-21 ~ 2026-06-05"
+        },
+        {
+            "title": "[서울] 2026년 2차 서울어워드 우수제품 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122340",
+            "period": "2026-05-14 ~ 2026-06-04"
+        },
+        {
+            "title": "[서울] 2026년 2차 서울커리업 인턴십 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122337",
+            "period": "2026-05-14 ~ 2026-06-01"
+        },
+        {
+            "title": "[경기] 용인시 2026년 DeepTech STARTUP Batch 참가자 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122330",
+            "period": "2026-05-22 ~ 2026-06-19"
+        },
+        {
+            "title": "[서울] 2026년 2차 일본(큐텐재팬) 진출 지원사업 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122326",
+            "period": "2026-05-18 ~ 2026-05-29"
+        },
+        {
+            "title": "[서울] 2026년 2차 동남아(쇼피) 온라인 시장 진출 지원사업 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122324",
+            "period": "2026-05-21 ~ 2026-06-04"
+        },
         {
             "title": "[서울] 2026년 중소기업 ISO 인증 지원 참여기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122321",
@@ -20,36 +50,6 @@
             "title": "2026년 경기도 동부권역 창업가 모집 공고(지역 가치 창업가 육성 지원사업)",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122308",
             "period": "2026-05-22 ~ 2026-06-19"
-        },
-        {
-            "title": "[경기] 양주시 2026년 음식점 미세먼지ㆍ악취 방지시설 설치 지원사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122305",
-            "period": "예산 소진시까지"
-        },
-        {
-            "title": "[서울] 2026년 직장 내 성희롱ㆍ성폭력 예방 컨설팅 참여기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122297",
-            "period": "2026-05-13 ~ 2026-12-31"
-        },
-        {
-            "title": "[경기] 부천시 2026년 BIFAN 지역상생마켓 참가기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122296",
-            "period": "2026-05-20 ~ 2026-05-27"
-        },
-        {
-            "title": "[경기] 부천시 2026년 동남아 해외시장개척단 참가기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122294",
-            "period": "2026-05-26 ~ 2026-06-05"
-        },
-        {
-            "title": "[서울ㆍ부산ㆍ울산ㆍ강원ㆍ경남] 제조물책임(PL)보험료 지원사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122284",
-            "period": "2026-05-18 ~ 2026-05-29"
-        },
-        {
-            "title": "[서울] 2026년 스타트업 ESG경영 진단 컨설팅 참여기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122281",
-            "period": "2026-05-14 ~ 2026-05-29"
         }
     ]
 }
