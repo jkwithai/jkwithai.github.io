@@ -2,6 +2,9 @@ name: Clean Old Workflow Runs
 
 on:
   workflow_dispatch: # Actions 탭에서 수동으로 실행 버튼을 누를 수 있게 합니다.
+  schedule:
+    # ⭐️ 매주 일요일 새벽 0시(한국 시간 오전 9시)에 자동으로 실행
+    - cron: '0 0 * * 0'
 
 permissions:
   actions: write # 토큰이 삭제 권한을 가질 수 있도록 명시합니다.
