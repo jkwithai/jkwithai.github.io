@@ -1,11 +1,11 @@
 {
-    "last_updated": "2026-06-03 21:28:01",
+    "last_updated": "2026-06-04 04:56:42",
     "items": [
         {
             "name": "KOSPI",
-            "price": 8801.49,
-            "change": 13.11,
-            "percent": 0.15
+            "price": 8707.18,
+            "change": -94.31,
+            "percent": -1.07
         },
         {
             "name": "S&P 500",
@@ -21,9 +21,9 @@
         },
         {
             "name": "Gold",
-            "price": 4462.7,
-            "change": -26.4,
-            "percent": -0.59
+            "price": 4507.2,
+            "change": 70.5,
+            "percent": 1.59
         }
     ]
 }
