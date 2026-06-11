@@ -1,29 +1,29 @@
 {
-    "last_updated": "2026-06-11 09:06:10",
+    "last_updated": "2026-06-11 10:54:45",
     "items": [
         {
             "name": "KOSPI",
             "price": 7763.95,
-            "change": 0.0,
-            "percent": 0.0
+            "change": 33.13,
+            "percent": 0.43
         },
         {
             "name": "S&P 500",
-            "price": NaN,
-            "change": NaN,
-            "percent": NaN
+            "price": 7266.99,
+            "change": -119.66,
+            "percent": -1.62
         },
         {
             "name": "Semiconductor",
-            "price": 12657.81,
-            "change": 0.0,
-            "percent": 0.0
+            "price": 12206.46,
+            "change": -451.35,
+            "percent": -3.57
         },
         {
             "name": "Gold",
-            "price": 4107.4,
-            "change": -0.8,
-            "percent": -0.02
+            "price": 4111.1,
+            "change": 2.9,
+            "percent": 0.07
         }
     ]
 }
