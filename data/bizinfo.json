@@ -1,6 +1,16 @@
 {
-    "last_updated": "2026-06-11 20:31:31",
+    "last_updated": "2026-06-12 10:26:25",
     "items": [
+        {
+            "title": "2026년 서울AI로봇쇼 혁신기업관 참가기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123110",
+            "period": "2026-06-12 ~ 2026-07-03"
+        },
+        {
+            "title": "[서울] 2026년 서울창업허브 공덕 X 젠엑시스 GEN-Boost Program 1st 초기배치 프로그램 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123104",
+            "period": "2026-06-01 ~ 2026-06-22"
+        },
         {
             "title": "[경기] 부천시 2027년 미국 라스베가스 CES(소비재 전자 전시회ㆍConsumer Electronics Show) 참가기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123060",
@@ -40,16 +50,6 @@
             "title": "[서울] 제2회 S.Challenge IR 바이오 분야 창업기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122995",
             "period": "2026-06-09 ~ 2026-06-26"
-        },
-        {
-            "title": "[경기] 2026년 반려동물산업 중소기업 단체관 지원사업 참가기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122994",
-            "period": "2026-06-17 ~ 2026-06-30"
-        },
-        {
-            "title": "[경기] 안산시 2026년 2차 ITㆍSW기업 성장지원사업 판로개척 지원 참여기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122991",
-            "period": "2026-06-09 ~ 2026-06-29"
         }
     ]
 }
