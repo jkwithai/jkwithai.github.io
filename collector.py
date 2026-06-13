@@ -158,7 +158,7 @@ def get_outfit_recommendation(temp):
     else:
         return {
             "text": "민소매, 반팔, 반바지, 원피스",
-            "image": "https://images.unsplash.com/photo-1523350165411-962fbf292431?q=80&w=600&auto=format&fit=crop",
+            "image": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?q=80&w=600&auto=format&fit=crop",
             "link": "https://www.musinsa.com/search/musinsa/news?q=바캉스+룩"
         }
 
