@@ -151,7 +151,8 @@ def get_outfit_recommendation(temp):
     elif 23 <= temp < 28:
         return {
             "text": "반팔, 얇은 셔츠, 반바지, 면바지",
-            "image": "https://images.unsplash.com/photo-1523381235211-252f5d00a31d?q=80&w=600&auto=format&fit=crop",
+            #  정상적으로 작동하는 여름 코디 이미지 주소로 변경했습니다.
+            "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?q=80&w=600&auto=format&fit=crop",
             "link": "https://www.musinsa.com/search/musinsa/news?q=여름+코디"
         }
     else:
