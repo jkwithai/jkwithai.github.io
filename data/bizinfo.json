@@ -1,6 +1,41 @@
 {
-    "last_updated": "2026-06-14 19:48:42",
+    "last_updated": "2026-06-15 21:13:43",
     "items": [
+        {
+            "title": "[경기] 2026년 2차 제조로봇 도입ㆍ실증 및 고도화지원 사업 공고(제조로봇 도입지원)",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123179",
+            "period": "2026-06-15 ~ 2026-07-22"
+        },
+        {
+            "title": "[경기] 안산시 2026년 기술사업화 지원사업 공고(국가기술거래플랫폼 서비스)",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123176",
+            "period": "2026-06-12 ~ 2026-07-09"
+        },
+        {
+            "title": "[경기] 포천시 2026년 현장기술 돌봄이 지원사업 모집 수정 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123174",
+            "period": "2026-06-12 ~ 2026-12-31"
+        },
+        {
+            "title": "[경기] 성남시 2026년 특허ㆍ상표ㆍ디자인 권리화 출원비용 지원사업 신청 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123157",
+            "period": "2026-06-05 ~ 2026-06-30"
+        },
+        {
+            "title": "[경기] 용인시 2026년 우체국 국제특급우편(EMS) 할인서비스 이용 희망기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123155",
+            "period": "2026-06-09 ~ 2026-09-30"
+        },
+        {
+            "title": "[경기] 2026년 2차 경기스타트업플랫폼 투자연계 지원 프로그램 온라인 밋업위크 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123146",
+            "period": "2026-06-08 ~ 2026-06-22"
+        },
+        {
+            "title": "[서울] 2026년 기후테크기업 IR 컨설팅 및 해외 투자상담회 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123145",
+            "period": "2026-06-08 ~ 2026-06-26"
+        },
         {
             "title": "2026년 서울AI로봇쇼 혁신기업관 참가기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123110",
@@ -15,41 +50,6 @@
             "title": "[경기] 부천시 2027년 미국 라스베가스 CES(소비재 전자 전시회ㆍConsumer Electronics Show) 참가기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123060",
             "period": "2026-06-10 ~ 2026-06-30"
-        },
-        {
-            "title": "[경기] 2026년 2차 음식점 미세먼지ㆍ악취 방지시설 설치 지원사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123056",
-            "period": "예산 소진시까지"
-        },
-        {
-            "title": "[서울] 구로구 CES 2027 서울통합관(구로G밸리관) 참가기업 모집 연장 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123049",
-            "period": "2026-06-08 ~ 2026-06-19"
-        },
-        {
-            "title": "[경기] 용인시 2026년 하반기 국내전시회 개별참가 지원사업 참여기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123046",
-            "period": "2026-06-02 ~ 2026-06-19"
-        },
-        {
-            "title": "[경기] 용인시 2026년 우체국 국제특송우편(EMS) 할인서비스 이용 희망기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123021",
-            "period": "상시 접수"
-        },
-        {
-            "title": "[경기] 성남시 2026년 산업기술보호 컨설팅 지원사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123010",
-            "period": "선착순 접수"
-        },
-        {
-            "title": "[경기] 용인시 2026년 첨단기술 융복합 실증 지원사업 모집 재공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123006",
-            "period": "2026-06-09 ~ 2026-06-23"
-        },
-        {
-            "title": "[서울] 제2회 S.Challenge IR 바이오 분야 창업기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000122995",
-            "period": "2026-06-09 ~ 2026-06-26"
         }
     ]
 }
