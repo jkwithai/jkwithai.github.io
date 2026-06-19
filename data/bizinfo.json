@@ -1,6 +1,21 @@
 {
-    "last_updated": "2026-06-18 20:35:13",
+    "last_updated": "2026-06-19 10:52:20",
     "items": [
+        {
+            "title": "[경기] 안양시 2026년 우수기업 선정 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123387",
+            "period": "2026-06-15 ~ 2026-07-24"
+        },
+        {
+            "title": "[서울] SBA x LG전자 K-뷰티ㆍ라이프스타일 판로 연계사업(태국) 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123386",
+            "period": "2026-06-18 ~ 2026-07-06"
+        },
+        {
+            "title": "[서울] 2026년 중국(광저우ㆍ청두) 시장개척단 참가기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123382",
+            "period": "2026-06-18 ~ 2026-06-24"
+        },
         {
             "title": "[경기] 안산시 2026년 관내 BI 입주기업 브랜드 강화사업 참여기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123373",
@@ -35,21 +50,6 @@
             "title": "[서울] 2026년 콘텐츠 기업의 투자유치 활성화를 위한 IR 피칭데이 참여기업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123320",
             "period": "2026-06-15 ~ 2026-07-02"
-        },
-        {
-            "title": "[서울] 한국전자전 서울XR 테마관 참여기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123318",
-            "period": "2026-06-16 ~ 2026-06-29"
-        },
-        {
-            "title": "[경기] 화성시 2026년 하반기 여성 농업인 특수건강검진 지원사업 신청 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123307",
-            "period": "2026-06-01 ~ 2026-12-04"
-        },
-        {
-            "title": "2026년 산업데이터 표준 기반 AI 솔루션 실증지원 사업수요기업 추가모집 공고(산업데이터 표준확산 기반구축 사업)",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123298",
-            "period": "2026-06-16 ~ 2026-07-03"
         }
     ]
 }
