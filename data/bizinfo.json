@@ -1,55 +1,55 @@
 {
-    "last_updated": "2026-07-02 04:12:26",
+    "last_updated": "2026-07-02 09:27:20",
     "items": [
+        {
+            "title": "[경기] 의정부시 2026년 사물인터넷(IoT) 측정기기 부착 지원사업 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123911",
+            "period": "예산 소진시까지"
+        },
+        {
+            "title": "2026년 2차 고양시 영상기업 활용 인센티브 사업 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123900",
+            "period": "2026-07-01 ~ 2026-11-15"
+        },
+        {
+            "title": "[서울] 강남구 2026년 2차 글로벌 스타트업 IR 활성화 지원사업  참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123868",
+            "period": "2026-06-24 ~ 2026-07-09"
+        },
+        {
+            "title": "[서울] 2026년 서울형 가족ㆍ전문 뿌리기업 선정 통합 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123865",
+            "period": "2026-07-01 ~ 2026-07-24"
+        },
+        {
+            "title": "[경기] 2027년 미국 라스베가스 소비자 전자제품 전시회(CES) 경기도관 참가기업 모집공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123864",
+            "period": "2026-06-23 ~ 2026-07-14"
+        },
+        {
+            "title": "[경기] 디스플레이 기술개발 지원사업 기술실증 및 성능평가 지원사업 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123863",
+            "period": "예산 소진시까지"
+        },
+        {
+            "title": "[서울] 2026년 베트남 시장개척단 파견 단원 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123856",
+            "period": "2026-07-01 ~ 2026-07-31"
+        },
+        {
+            "title": "2026년 대한민국산업전시회 수출컨소시엄 단체관 참가기업 모집 연장 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123854",
+            "period": "2026-06-16 ~ 2026-07-10"
+        },
+        {
+            "title": "[경기] 2026년 코리아 비즈니스 엑스포 선전 단체관 지원사업 참가기업 모집 공고(한ㆍ중 경제무역교류 박람회)",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123853",
+            "period": "2026-06-24 ~ 2026-07-13"
+        },
         {
             "title": "[서울] 2026년 DDP 쇼룸 패션기업 PoC 지원 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123850",
             "period": "2026-06-24 ~ 2026-07-16"
-        },
-        {
-            "title": "[경기] 평택시 2026년 2차 해외플랫폼 입점 지원사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123848",
-            "period": "2026-06-30 ~ 2026-07-17"
-        },
-        {
-            "title": "[경기] 평택시 2026년 우수기업 선정 지원사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123847",
-            "period": "2026-06-26 ~ 2026-08-13"
-        },
-        {
-            "title": "[서울] 2026년 하반기 중장년 소상공인 디지털 전환지원 사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123844",
-            "period": "예산 소진시까지"
-        },
-        {
-            "title": "[서울] 2026년 하반기 위기 소상공인 조기발굴 및 선제지원(Track2) 사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123842",
-            "period": "예산 소진시까지"
-        },
-        {
-            "title": "[서울] 2026년 3차 지식재산 긴급지원 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123839",
-            "period": "2026-06-30 ~ 2026-07-21"
-        },
-        {
-            "title": "[경기] 부천시 2026년 7월 중소기업 지식재산 지원 사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123836",
-            "period": "2026-07-01 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 부천시 2026년 7월 유해물질 시험분석 수수료 지원 사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123834",
-            "period": "2026-07-01 ~ 2026-07-31"
-        },
-        {
-            "title": "화성특례시 소셜벤처 창업 아이디어 경진대회 참여(예비)기업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123821",
-            "period": "2026-07-01 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 2026년 글로벌 로케이션 인센티브 추가모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000123817",
-            "period": "2026-06-30 ~ 2026-07-20"
         }
     ]
 }
