@@ -1,6 +1,46 @@
 {
-    "last_updated": "2026-07-15 08:28:02",
+    "last_updated": "2026-07-16 14:11:48",
     "items": [
+        {
+            "title": "[경기] 용인시 2026년 2차 맞춤형 창업지원사업 사업화ㆍ마케팅 지원사업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124456",
+            "period": "2026-07-16 ~ 2026-07-30"
+        },
+        {
+            "title": "[경기] 용인시 2026년 2차 경력보유여성 채용기업 고용장려금 지원사업 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124455",
+            "period": "2026-07-15 ~ 2026-07-24"
+        },
+        {
+            "title": "[경기] 용인시 2026년 아제르바이잔ㆍ조지아 해외시장개척단 참가기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124453",
+            "period": "2026-07-15 ~ 2026-08-05"
+        },
+        {
+            "title": "[경기] 2026년 수출프론티어기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124443",
+            "period": "2026-07-01 ~ 2026-09-04"
+        },
+        {
+            "title": "[경기] 2026년 수출기업인의 날 표창 대상자 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124438",
+            "period": "2026-07-01 ~ 2026-09-04"
+        },
+        {
+            "title": "[경기] 2026년 하반기 해외바이어 초청 연수 사업 참여기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124432",
+            "period": "2026-07-13 ~ 2026-07-31"
+        },
+        {
+            "title": "[경기] 성남시 2026년 청년창업 아이디에이션 4.0 참가자 모집 공고(미래 선도 첨단도시 성남 청년 글로벌 창업 역량강화 프로젝트)",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124419",
+            "period": "2026-07-20 ~ 2026-08-13"
+        },
+        {
+            "title": "[경기] 2026년 노사상생 우수기업 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124418",
+            "period": "2026-07-15 ~ 2026-07-29"
+        },
         {
             "title": "[경기] 연천군 2026년 3차 지식재산 긴급지원 사업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124396",
@@ -10,46 +50,6 @@
             "title": "[경기] 가평군 2026년 3차 지식재산 긴급지원 사업 모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124395",
             "period": "2026-07-06 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 포천시 2026년 3차 지식재산 긴급지원 사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124393",
-            "period": "2026-07-06 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 남양주시 2026년 3차 지식재산 긴급지원 사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124391",
-            "period": "2026-07-06 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 양주시 2026년 3차 지식재산 긴급지원 사업 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124390",
-            "period": "2026-07-06 ~ 2026-07-31"
-        },
-        {
-            "title": "[경기] 2026년 우수 벤처기업 표창 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124380",
-            "period": "2026-07-20 ~ 2026-08-31"
-        },
-        {
-            "title": "[경기] 2026년 중소기업 마케팅 지원사업 수출 매칭 지원 추가모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124363",
-            "period": "2026-07-15 ~ 2026-07-29"
-        },
-        {
-            "title": "[경기] 성남시 2026년 일본 도쿄 추계 IT 전시회(Japan IT Week Autumn) 참가기업 추가모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124361",
-            "period": "2026-07-13 ~ 2026-07-20"
-        },
-        {
-            "title": "[경기] 성남시 2026년 시스템반도체 개발 인프라 활용 지원 사업 계측 인프라 부문 기업 추가 모집 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124360",
-            "period": "2026-07-14 ~ 2026-09-28"
-        },
-        {
-            "title": "[경기] 용인시 2026년 Hello, YOGO 바이럴마케팅 지원사업 공고",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000124358",
-            "period": "2026-07-08 ~ 2026-07-22"
         }
     ]
 }
