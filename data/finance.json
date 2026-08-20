@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-20 06:57:28",
+    "last_updated": "2026-08-20 13:03:13",
     "items": [
         {
             "name": "KOSPI",
@@ -21,9 +21,9 @@
         },
         {
             "name": "Gold",
-            "price": 4552.7,
-            "change": 63.3,
-            "percent": 1.41
+            "price": 4528.0,
+            "change": 38.6,
+            "percent": 0.86
         }
     ]
 }
