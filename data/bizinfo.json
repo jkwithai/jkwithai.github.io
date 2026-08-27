@@ -1,6 +1,21 @@
 {
-    "last_updated": "2026-08-26 19:55:41",
+    "last_updated": "2026-08-27 08:55:16",
     "items": [
+        {
+            "title": "[서울] 2026년 홍콩 코스모프로프 미용 전시회(Cosmoprof Asia 2026) 참가기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125885",
+            "period": "2026-08-26 ~ 2026-09-10"
+        },
+        {
+            "title": "2026년 경기게임커넥트 참가개발사(게임전시) 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125872",
+            "period": "2026-08-26 ~ 2026-09-13"
+        },
+        {
+            "title": "2026년 서울용산시제품제작소 AIㆍ스마트전자제품 금형지원 기업 모집 공고",
+            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125850",
+            "period": "2026-08-26 ~ 2026-09-10"
+        },
         {
             "title": "[서울] 강남구 2026년 하반기 중소기업육성기금 융자지원 계획 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125836",
@@ -35,21 +50,6 @@
             "title": "[경기] 2026년 소공인 자생력 강화사업 추가모집 공고",
             "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125777",
             "period": "2026-08-24 ~ 2026-09-07"
-        },
-        {
-            "title": "[경기] 북부권역 연천군 2026년 2차 중소기업 제품디자인개발 지원사업 참여기업 모집 공고(디자인개발)",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125763",
-            "period": "2026-08-19 ~ 2026-09-01"
-        },
-        {
-            "title": "[경기] 북부권역 2026년 2차 중소기업 제품디자인개발 지원사업 참여기업 모집 공고(디자인개발)",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125762",
-            "period": "2026-08-19 ~ 2026-09-01"
-        },
-        {
-            "title": "[경기] 동부권역 2026년 2차 중소기업 제품디자인개발 지원사업 참여기업 모집 공고(디자인개발)",
-            "link": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?hashCode=&rowsSel=&rows=15&cpage=&cat=&schPblancDiv=&schJrsdCodeTy=&schWntyAt=&schAreaDetailCodes=6110000%2C6410000&schEndAt=N&orderGb=&sort=&preKeywords=&condition=&condition1=&keyword=&pblancId=PBLN_000000000125759",
-            "period": "2026-08-19 ~ 2026-09-01"
         }
     ]
 }
