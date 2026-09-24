@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-09-23 21:24:35",
+    "last_updated": "2026-09-24 04:27:57",
     "items": [
         {
             "name": "KOSPI",
@@ -15,15 +15,15 @@
         },
         {
             "name": "Semiconductor",
-            "price": 12534.27,
+            "price": 12534.28,
             "change": 0.0,
             "percent": 0.0
         },
         {
             "name": "Gold",
-            "price": 4322.7,
-            "change": -53.7,
-            "percent": -1.23
+            "price": 4321.3,
+            "change": 2.9,
+            "percent": 0.07
         }
     ]
 }
