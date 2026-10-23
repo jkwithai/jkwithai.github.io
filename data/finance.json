@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-10-23 16:54:13",
+    "last_updated": "2026-10-23 21:17:49",
     "items": [
         {
             "name": "KOSPI",
@@ -9,21 +9,21 @@
         },
         {
             "name": "S&P 500",
-            "price": 7639.34,
-            "change": -24.09,
-            "percent": -0.31
+            "price": 7623.68,
+            "change": -39.75,
+            "percent": -0.52
         },
         {
             "name": "Semiconductor",
-            "price": 10819.58,
-            "change": 87.6,
-            "percent": 0.82
+            "price": 10779.46,
+            "change": 47.48,
+            "percent": 0.44
         },
         {
             "name": "Gold",
-            "price": 4016.6,
-            "change": -43.8,
-            "percent": -1.08
+            "price": 4010.0,
+            "change": -50.4,
+            "percent": -1.24
         }
     ]
 }
